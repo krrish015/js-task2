@@ -1,0 +1,11 @@
+div {
+    box-sizing: border-box;
+    align-content: center;
+    align-items: center;
+}
+
+form {
+    background-color: pink;
+    margin: 0 auto;
+    width: 300px;
+}
